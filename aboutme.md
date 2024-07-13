@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: LaTeX Fundamental
 subtitle: A One-Day Comprehensive Course on Typesetting with LaTeX
 ---
