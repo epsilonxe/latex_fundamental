@@ -1,12 +1,8 @@
 ---
 layout: page
 title: LaTeX Fundamental
+subtitle: A One-Day Comprehensive Course on Typesetting with LaTeX
 ---
-
-# LaTeX Fundamental
-
-A One-Day Comprehensive Course on Typesetting with LaTeX
-
 ## Schedule
 
 |   Date       |     Time     |    Location   |
