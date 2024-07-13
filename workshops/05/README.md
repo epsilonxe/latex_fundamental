@@ -1,3 +1,49 @@
+# Workshop 05
+
+## LAB. 1
+
+Prepare an article document with the contents consisting the following texts and references:
+
+```tex
+\documentclass{article}
+
+\usepackage[backend=biber]{biblatex}
+\addbibresource{mybib.bib}
+
+\begin{document}
+I am citing Dirac \cite{dirac}.
+
+\printbibliography
+
+\end{document}
+```
+
+And here is the `bib` file contents:
+
+```tex
+@book{dirac,
+  title={The Principles of Quantum Mechanics},
+  author={Paul Adrien Maurice Dirac},
+  isbn={9780198520115},
+  series={International Series of Monographs on Physics},
+  year={1981},
+  publisher={Clarendon Press},
+  keywords = {physics}
+}
+```
+
+The result must be in PDF format showing the bibliography.
+
+### Example
+
+![center](1.png)
+
+
+## LAB. 2
+
+Prepare an article document with the contents consisting Thai characters:
+
+```tex
 % !TEX program = xelatex
 
 \documentclass{article}
@@ -28,3 +74,11 @@
 ทำกิจกรรมกลางแจ้งเพื่อสร้างความสัมพันธ์ที่ดีระหว่างกัน
 
 \end{document}
+```
+
+The result must be in PDF format showing Thai alphabets.
+
+### Example
+
+![center](2.png)
+
