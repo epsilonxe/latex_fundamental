@@ -1,7 +1,12 @@
 # Fdb version 4
-["pdflatex"] 1720893239.27146 "/Users/epsilonxe/Workspace/lecture_latex/latex_fundamentals/test_files/workshop_01.tex" "workshop_01.pdf" "workshop_01" 1720893239.59763 0
-  "/Users/epsilonxe/Workspace/lecture_latex/latex_fundamentals/test_files/workshop_01.tex" 1720893239.04842 1459 1d6f207270e9e139a580e3e0a4dddd2c ""
+["pdflatex"] 1720895186.25295 "/Users/epsilonxe/Workspace/lecture_latex/latex_fundamentals/test_files/workshop_01.tex" "workshop_01.pdf" "workshop_01" 1720895186.57397 0
+  "/Users/epsilonxe/Workspace/lecture_latex/latex_fundamentals/test_files/workshop_01.tex" 1720895186.03764 2763 6adb36a06b870b3759df33d5b630f69b ""
+  "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb" 1248133631 36299 5f9df58c2139e7edcf37c8fca4bd384d ""
+  "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb" 1248133631 36281 c355509802a035cadc5f15869451dcee ""
   "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1248133631 35752 024fb6c41858982481f6968b5fc26508 ""
+  "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb" 1248133631 32762 224316ccc9ad3ca0423a14971cfa7fc1 ""
+  "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb" 1248133631 32569 5e5ddc8df908dea60932f3c484a54c0d ""
+  "/usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb" 1248133631 32716 08e384dc442464e7285e891af9f45947 ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/base/article.cls" 1705352648 20144 147463a6a579f4597269ef9565205cfe ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/base/size10.clo" 1705352648 8448 dbc0dbf4156c0bb9ba01a1c685d3bad0 ""
   "/usr/local/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def" 1708463273 30006 3d512c0edd558928ddea1690180ef77e ""
@@ -9,8 +14,8 @@
   "/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1712026094.76328 5467645 128b85b7cde5f5edc5cb7f1dd7ff8736 ""
   "/usr/local/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1712026009 8221445 1b865b7928c325e20d28d50b409f9997 ""
   "/usr/local/texlive/2024/texmf.cnf" 1710266656 577 e590dabc9e28c5b61546e15f63eebcdf ""
-  "workshop_01.aux" 1720893239.58035 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
-  "workshop_01.tex" 1720893239.04842 1459 1d6f207270e9e139a580e3e0a4dddd2c ""
+  "workshop_01.aux" 1720895186.5485 32 3985256e7290058c681f74d7a3565a19 "pdflatex"
+  "workshop_01.tex" 1720895186.03764 2763 6adb36a06b870b3759df33d5b630f69b ""
   (generated)
   "workshop_01.aux"
   "workshop_01.log"

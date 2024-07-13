@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.4.2)  14 JUL 2024 00:53
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.4.2)  14 JUL 2024 01:26
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -48,7 +48,12 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 8.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <5> on input line 8.
- [1
+
+Overfull \hbox (1.4451pt too wide) in paragraph at lines 22--39
+[]\OT1/cmr/m/n/10 Understanding the be-hav-ior of func-tions of-ten re-quires an-a-lyz-ing their deriva-
+ []
+
+[1
 
 {/usr/local/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./workshop_01.aux)
  ***********
@@ -57,18 +62,18 @@ L3 programming layer <2024-02-20>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 433 strings out of 474116
- 8634 string characters out of 5743683
- 1931187 words of memory out of 5000000
- 22874 multiletter control sequences out of 15000+600000
+ 431 strings out of 474116
+ 8580 string characters out of 5743683
+ 1933187 words of memory out of 5000000
+ 22872 multiletter control sequences out of 15000+600000
  558069 words of font info for 36 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 35i,6n,50p,651b,158s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on workshop_01.pdf (1 page, 22262 bytes).
+ 35i,5n,50p,203b,109s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
+Output written on workshop_01.pdf (1 page, 67886 bytes).
 PDF statistics:
- 13 PDF objects out of 1000 (max. 8388607)
- 7 compressed objects within 1 object stream
+ 38 PDF objects out of 1000 (max. 8388607)
+ 22 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
