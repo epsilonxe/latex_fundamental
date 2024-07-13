@@ -1,7 +1,5 @@
 # LaTeX Fundamental
 
-[![Gem Version](https://badge.fury.io/rb/beautiful-jekyll-theme.svg)](https://badge.fury.io/rb/beautiful-jekyll-theme)
-
 A One-Day Comprehensive Course on Typesetting with LaTeX
 
 ## Schedule
