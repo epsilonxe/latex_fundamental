@@ -19,12 +19,12 @@ author: Ratthaprom Promkam
 # --- List of links in the navigation bar --- #
 ###############################################
 
-navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+# navbar-links:
+#   About Me: "aboutme"
+#   Resources:
+#     - Beautiful Jekyll: "https://beautifuljekyll.com"
+#     - Learn markdown: "https://www.markdowntutorial.com/"
+#   Author's home: "https://deanattali.com"
 
 ################
 # --- Logo --- #
@@ -52,12 +52,12 @@ round-avatar: true
 social-network-links:
   email: "ratthaprom_p@rmutt.ac.th"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
+#  facebook: deanattali
   github: epsilonxe
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: "@epsilonxe"
-  whatsapp: 15551212
+#  twitter: daattali
+#  patreon: DeanAttali
+#  youtube: "@epsilonxe"
+#  whatsapp: 15551212
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
@@ -126,7 +126,7 @@ edit_page_button: true
 navbar-var-length: false
 
 # The keywords to associate with your website, for SEO purposes
-#keywords: "my,list,of,keywords"
+#keywords: "latex, workshop, RMUTT"
 
 ######################################
 # --- Colours / background image --- #
