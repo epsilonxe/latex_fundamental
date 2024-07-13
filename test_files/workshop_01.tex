@@ -1,28 +1,66 @@
-\documentclass{article}
-
-\title{The Workshop 1}
-\author{Name Surname}
-\date{31 December 2080}
+\documentclass[12pt]{article}
+\usepackage{lipsum} % For generating dummy text
+\usepackage[hidelinks]{hyperref} % For hyperlinks in the table of contents
 
 \begin{document}
 
+% Title and Author
+\title{Sample LaTeX Article}
+\author{Author Name}
+\date{31 December 2080}
 \maketitle
 
-In the quiet park, children played joyfully 
-on the swings, while a gentle breeze rustled 
-the leaves of the tall oak trees. 
-The sun shone brightly, casting a warm, 
-golden glow over the lush green grass. 
-Nearby, a family spread out a picnic blanket 
-and shared sandwiches, laughter echoing 
-through the air. 
-A dog, tail wagging, chased after a frisbee, 
-its playful barks blending with 
-the sounds of the afternoon. 
-Amidst this serene setting, 
-an elderly couple strolled hand in hand, 
-enjoying the peaceful moment together. 
-The park was a perfect picture of simple, 
-everyday happiness.
+% Table of Contents
+\tableofcontents
+
+% Un-numbered Section
+\section*{Introduction}
+\addcontentsline{toc}{section}{Introduction}
+\lipsum[1-2]
+
+% Numbered Section 1
+\section{Section One}
+\subsection{Subsection 1.1}
+\lipsum[5-8]
+
+\subsection{Subsection 1.2}
+\lipsum[9-12]
+
+% Numbered Section 2
+\section{Section Two}
+\subsection{Subsection 2.1}
+\lipsum[13-16]
+
+\subsection{Subsection 2.2}
+\lipsum[17-20]
+
+% Numbered Section 3
+\section{Section Three}
+\subsection{Subsection 3.1}
+\lipsum[21-24]
+
+\subsection{Subsection 3.2}
+\lipsum[25-28]
+
+\newpage
+
+% Additional content to ensure the document reaches 6 pages
+% Using \lipsum to generate dummy text
+\section{Additional Content to Reach Six Pages}
+\subsection{Additional Subsection 1}
+\lipsum[29-32]
+
+\subsection{Additional Subsection 2}
+\lipsum[33-36]
+
+\subsection{Additional Subsection 3}
+\lipsum[37-40]
+
+\section{Conclusion}
+\subsection{Summary}
+\lipsum[41-44]
+
+\subsection{Future Work}
+\lipsum[45-48]
 
 \end{document}
