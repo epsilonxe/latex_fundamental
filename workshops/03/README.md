@@ -11,7 +11,7 @@ The result must be in PDF format showing contents aligned with the mentioned con
 
 ### Example
 
-[center](1.png)
+![center](1.png)
 
 ## LAB. 2
 
@@ -30,4 +30,4 @@ The result must be in PDF format showing contents aligned with the mentioned con
 
 ### Example
 
- [center](2.png)
+![center](2.png)
