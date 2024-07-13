@@ -1,4 +1,3 @@
-
 This course is a comprehensive workshop designed to introduce participants to fundamental of LaTeX. 
 It covers essential topics such as installation, document structure, text formatting, references, and customization options. 
 Participants will engage in hands-on workshops to practice creating and formatting LaTeX documents, incorporating graphics and tables, and using various packages and commands. 
