@@ -3,8 +3,8 @@ entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/Users/epsilonxe/Workspace/lecture_latex/latex_fundamentals/test_files/workshop_01
-(/Users/epsilonxe/Workspace/lecture_latex/latex_fundamentals/test_files/workshop_01.tex
+**/Users/epsilonxe/Workspace/lecture_latex/latex_fundamentals/test_files/test2
+(/Users/epsilonxe/Workspace/lecture_latex/latex_fundamentals/test_files/test2.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
 (/usr/local/texlive/2024/texmf-dist/tex/latex/base/article.cls
@@ -158,8 +158,9 @@ Package polyglossia Info: Option: English, variant=american.
 Package polyglossia Info: Default language is english.
  (/usr/local/texlive/2024/texmf-dist/tex/latex/polyglossia/gloss-thai.ldf
 File: gloss-thai.ldf polyglossia: module for Thai
-)) (./workshop_01.aux)
-\openout1 = `workshop_01.aux'.
+))
+No file test2.aux.
+\openout1 = `test2.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
 LaTeX Font Info:    ... okay on input line 6.
@@ -171,7 +172,7 @@ LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
 LaTeX Font Info:    ... okay on input line 6.
 LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 6.
 LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 6.
- (/usr/local/texlive/2024/texmf-dist/tex/latex/base/ts1cmr.fd
+(/usr/local/texlive/2024/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
 )
 LaTeX Font Info:    ... okay on input line 6.
@@ -218,19 +219,19 @@ Underfull \hbox (badness 10000) in paragraph at lines 19--29
 
 [1
 
-] (./workshop_01.aux)
+] (./test2.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2020/03/25>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 5911 strings out of 474773
- 156630 string characters out of 5757725
+ 5908 strings out of 474773
+ 156516 string characters out of 5757725
  1923839 words of memory out of 5000000
- 28027 multiletter control sequences out of 15000+600000
+ 28026 multiletter control sequences out of 15000+600000
  558173 words of font info for 49 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 94i,5n,136p,358b,258s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 94i,5n,136p,352b,258s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on workshop_01.pdf (1 page).
+Output written on test2.pdf (1 page).

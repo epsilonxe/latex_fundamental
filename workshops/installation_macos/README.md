@@ -1,4 +1,4 @@
-# Installations
+# Installations for macOS
 
 ## Thai Fonts
 

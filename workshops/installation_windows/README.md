@@ -1,4 +1,4 @@
-# Installations
+# Installations for Windows 10/11
 
 ## Thai Fonts
 
