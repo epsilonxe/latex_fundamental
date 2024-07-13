@@ -3,11 +3,12 @@ layout: page
 title: LaTeX Fundamental
 subtitle: A One-Day Comprehensive Course on Typesetting with LaTeX
 ---
+
 ## Schedule
 
 |   Date       |     Time     |    Location   |
 |--------------|--------------|---------------|
-| 14 July 2024 | 8.30-17.00   | R202 iWork, RMUTT |
+| 14 July 2024 | 8.30 - 17.00   | R202 iWork, RMUTT |
 
 
 ## Description
