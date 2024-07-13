@@ -24,14 +24,20 @@ everyday happiness.
 ```
 The result must be in PDF format showing only the above contents.
 
+### Example
+
 ![center](1.png)
 
 ## LAB. 2
 
 Add the following details to the document:
-	- Title: The Workshop 1
-	- Author: Yourname
-	- Date: Today
+
+- Title: The Workshop 1
+- Author: Yourname
+- Date: Today
+
  The result must be a PDF format adding the mentioned details to the article.
+
+### Example
 
  ![center](2.png)
