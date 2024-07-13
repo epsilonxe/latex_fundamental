@@ -28,8 +28,8 @@ The day concludes with a wrap-up and Q&A session, providing an opportunity for f
 | Installations | การติดตั้ง LaTeX ในระบบปฏิบัติการต่าง ๆ | [Windows](workshops/installation_windows) <br> [macOS](workshops/installation_macos) <br> [Linux](workshops/installation_linux)| 
 | Introduction  | การแนะนำพื้นฐานของ LaTeX และการเริ่มต้นใช้งาน | [Workshop 01](workshops/01)  |
 | Document structures | โครงสร้างเอกสารใน LaTeX รวมถึงส่วนประกอบสำคัญ | [Workshop 02](workshops/02) |
-| Mathematics and Equations | การพิมพ์สมการและสัญลักษณ์ทางคณิตศาสตร์ใน LaTeX | [Workshop 03](workshops/03) |
-| Graphics and Tables | การใส่กราฟิกและตารางในเอกสาร LaTeX | [Workshop 04](workshops/04) |
+| Graphics and Tables | การใส่กราฟิกและตารางในเอกสาร LaTeX | [Workshop 04](workshops/03) |
+| Mathematics and Equations | การพิมพ์สมการและสัญลักษณ์ทางคณิตศาสตร์ใน LaTeX | [Workshop 03](workshops/04) |
 | Bibliography and references | การอ้างอิงและการสร้างบรรณานุกรมในเอกสาร LaTeX | [Workshop 05](workshops/05) |
 
 ## Materials & Tools
